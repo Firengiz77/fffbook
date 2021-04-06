@@ -92,6 +92,11 @@ body{
     top: 0;
     
 }
+@media screen and (max-width:567px){
+    #yenigelen{
+        flex-direction:column:
+           }
+}
 
 
 /* 
