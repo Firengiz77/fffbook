@@ -1,0 +1,275 @@
+h1{
+    
+    color:rgb(65, 56, 9);
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    
+}
+.span{
+    color:rgb(131, 131, 17);
+
+}
+.foto{ 
+    height: 500px;
+    width: 300px;
+}
+.nav-item{
+    font-family: 'Syne Mono', monospace;
+
+}
+.foto2{
+    height: 450px;
+    width: 150px;
+}
+.span2{
+    color:rgb(97, 33, 7);
+
+}
+.ecs{
+    color:rgb(97, 33, 7);
+
+}
+.item2{
+    width: 80%;
+    height: 80%;
+}
+
+.search{
+    margin-left: auto !important;
+}
+
+.span3{
+  
+
+    color: cadetblue;
+    font-family: 'Merienda', cursive;
+    /* animation: type 3s steps(10);
+    overflow:hidden;
+    white-space: nowrap; */
+    
+}
+
+h3{
+    color:rgb(47, 5, 145);
+    text-align: center;
+    font-family: 'Aclonica', sans-serif;
+font-family: 'Jockey One', sans-serif;
+
+}
+.footer-box .fa{
+    margin-right: 8px;
+    font-size: 40px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    padding-top: 7px;
+}
+
+#yenigelen{
+    background-image: linear-gradient(to right,#f6f7f3,#ecddce);
+    
+
+}
+#ecso{
+    background-image: linear-gradient(to right,#f6f7f3,#ecddce);
+    
+}
+#hqqmzd{
+    background-image: linear-gradient(to right,#f6f7f3,#ecddce);
+    
+}
+#elaqe{
+    background-image: linear-gradient(to right,#f8f8f8,#e4c8a3);
+    
+}
+
+
+body{
+    background-image: linear-gradient(to right,#f6f7f3,#ecddce);
+}
+.wrapper{
+    position: sticky;
+    top: 0;
+    
+}
+
+
+/* 
+.navbar-brand{
+    position:fixed;
+
+}
+
+.navbar{
+    position: fixed;
+}
+
+.navbar-nav{
+    list-style: none;
+    overflow:hidden;
+    transition: 1s;
+
+}
+.navbar-nav.nav-item{
+    display: inline-block;
+
+}
+@media screen and (max-width: 580px){
+    
+    
+
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .navbar-nav{
+
+        list-style-type: none;
+     
+}
+
+  nav li{
+    display: inline-block;
+    margin: 0 4px;
+  }
+  nav li a{
+    padding: 10px 0;
+    text-decoration: none;
+    color: #e1e1e1;
+    transition: all ease-in-out 0.5s;
+  } */
+  /* nav li a:hover{
+    color: #bbb;
+  } */
+
+
+
+
+
+
+/* 
+
+#navbar {
+    overflow: hidden;
+    background-color: #333;
+  }
+
+#navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+
+
+.content {
+    padding: 16px;
+  }
+  
+  
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+   .sticky .content {
+    padding-top: 60px;
+  } */
+
+  /* .container-fluid{
+    width: 90%;
+    margin: 0 auto;
+    transition: all ease-in-out 0.5s;
+  }
+  .container-fluid.fixed-to-top{
+    width: 96%;
+  } */
+
+
+
+
+/* @media screen and (max-width: 768px){
+} */
+   /* .collapse{
+       width: 30px;
+       height: 3px;
+       background:white;
+       margin: 5px;
+   }
+
+   nav{
+       position: relative;
+   }
+   .container-fluid{
+       position: absolute;
+       cursor: pointer;
+       right: 5%;
+       top: 50%;
+       transform: translate(-5%,-50%);
+   } */
+
+    /* .navbar-nav{
+        position: relative;
+        background: #ddcab2;
+        height: 100vh;
+        width: 100%;
+        flex-direction: column;
+         display: none;
+    }
+} */
+
+
+
+
+/* 
+@keyframes type {
+    0% {
+        width: 0ch;
+    }
+    100% {
+        width: 10ch;
+    }
+} */
+
+
+/* ƏLAVƏ > < işarə buttonları kodu */
+
+/* #banner .owl-carousel .owl-nav button{
+    position:absolute;
+    top:30%;
+    outline:none;
+} */
+
+/* #banner .owl-carousel .owl-nav button.owl-prev{
+    left: 0px;
+}
+#banner .owl-carousel .owl-nav button.owl-next{
+    right: 0px;
+}
+#banner .owl-carousel .owl-nav button span{
+    font-size: 20px;
+    padding: 0 1rem;
+
+}
+#banner .owl-carousel .owl-nav button.owl-prev span{
+    margin-left: 2rem;
+}
+#banner .owl-carousel .owl-nav button.owl-next span{
+    margin-right: 2rem;
+} */
